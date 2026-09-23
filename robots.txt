@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://enzynet.vercel.app/sitemap.xml
+Sitemap: https://enzonet.vercel.app/sitemap.xml
